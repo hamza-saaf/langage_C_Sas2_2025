@@ -1,4 +1,5 @@
 {
+    "editor.suggest.preview": false,
     "tasks": [
         {
             "type": "cppbuild",
